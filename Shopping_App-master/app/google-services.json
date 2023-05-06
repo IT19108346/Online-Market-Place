@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406293546638",
+    "project_id": "test-ccaa5",
+    "storage_bucket": "test-ccaa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406293546638:android:72d2332963330f01792bdf",
+        "android_client_info": {
+          "package_name": "com.example.newbagshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406293546638-phqhnudjc7hj21uetmjd19qlglth5t4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcscOlE61L8p1S00L8U_mKAonD78vkjj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406293546638-phqhnudjc7hj21uetmjd19qlglth5t4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
